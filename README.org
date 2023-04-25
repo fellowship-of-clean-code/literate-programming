@@ -1,4 +1,6 @@
 #+author: Riccardo Maria Gesuè
-* FOCC_LiterateProgramming
+* FOCC: Literate Programming
 Notes and material for the Fellowship Of Clean Code (FOCC)
 session on literate programming.
+** Contents
+- *Presentation*: contains the source files, the images  and the pdf of the presentation.
