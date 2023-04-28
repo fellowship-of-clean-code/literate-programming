@@ -1,0 +1,23 @@
+#+title: Test
+#+author: Riccardo Maria Gesuè
+
+* Introduction
+We'll use this document to try to write some easy literate scripts together.
+In the folder you'll find a =.ipynb= couterpart.
+* Random number generator
+#+begin_src python :results file
+import matplotlib.pyplot as plt
+x = 5
+plt.plot([1,2,3,4,5])
+plt.savefig("test.png")
+return "test.png"
+#+end_src
+
+#+RESULTS:
+[[file:test.png]]
+
+[[file:~/Nextcloud/Documents/Uni/Dottorato/GSSI/FOCC/LiterateProgramming/FOCC_LiterateProgramming/Presentation/Images/gssi_logo.jpeg]]
+#+begin_src python :results output
+#+end_src
+
+* Section
